@@ -35,7 +35,7 @@ Make sure you have Python 3.8+ installed.
 ### Installation
 
 1. Clone this repository:
-   git clone https://github.com/YOUR_USERNAME/polymarket-live-tracker.git
+   git clone https://github.com/FHolmstroem/Polymarket-Live-Tracker.git
    cd polymarket-live-tracker
 
 2. Install the required dependencies:
